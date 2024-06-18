@@ -1,0 +1,34 @@
+<VAST version="2.0">
+<Ad id="728293">
+<InLine>
+<AdSystem>AdRiver</AdSystem>
+<AdTitle>VPAID Ad</AdTitle>
+<Impression>
+<![CDATA[ https://ad.adriver.ru/cgi-bin/event.cgi?xpid=DHTN5_I60hrZT2AVA3jW4sj-ihl4H1WaXNWrc8BgyUkDtvCD8QNBNJfbewtdR-TYrOIyKf7CwxCtDVApm5kSJDqN-Uzo&sid=1&sliceid=0&bn=7914242&pz=0&sz=&ad=728293&bid=7914242&bt=99&tuid=-1&type=0&exs0=&exs1=&exs2=&exs3=&exs4=&exs5=&custom=207=&tail256= ]]>
+</Impression>
+<Impression>
+<![CDATA[ ]]>
+</Impression>
+<Creatives>
+<Creative id="7914242">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents> </TrackingEvents>
+<AdParameters>
+<![CDATA[ {"site":"1","bt":"99","bn":"7914242","sliceid":"0","pz":"0","sz":"","ad":"728293","bid":"7914242","xpid":"DHTN5_I60hrZT2AVA3jW4sj-ihl4H1WaXNWrc8BgyUkDtvCD8QNBNJfbewtdR-TYrOIyKf7CwxCtDVApm5kSJDqN-Uzo","erir":"","domain":"https://servers2.adriver.ru", "url":"http://adriver.ru/", "extstr":{"exs0":"","exs1":"","exs2":"","exs3":"","exs4":"","exs5":""}, "tail256":"", "custom":{},"skiptime":"00:00:00", "duration":"00:00:15.000", "TrackingEvents":{"acceptInvitation":[],"close":[],"collapse":[],"complete":[],"creativeView":[],"exitFullscreen":[],"expand":[],"firstQuartile":[],"fullscreen":[],"midpoint":[],"mute":[],"pause":[],"progress":[],"progress_offset":"","resume":[],"rewind":[],"skip":[],"start":[],"thirdQuartile":[],"unmute":[]}, "chwl":"", "clickable":1, "close_click":0, "cv":{"time":"", "area":""}, "playerHandles": "0" ,"buttons":[{"image":"https://content.adriver.ru/images/0006321/0006321413/0/close.png","name":"close","style":{"bottom":"","cursor":"pointer","height":"48px","left":"","position":"absolute","right":"10px","top":"10px","width":"48px"}},{"image":"https://content.adriver.ru/images/0006321/0006321413/0/mute_.png","name":"mute","style":{"bottom":"10px","cursor":"pointer","height":"38px","left":"10px","position":"absolute","right":"","top":"","width":"38px"}},{"image":"https://content.adriver.ru/images/0006321/0006321413/0/unmute_.png","name":"unmute","style":{"bottom":"10px","cursor":"pointer","height":"38px","left":"10px","position":"absolute","right":"","top":"","width":"38px"}}],"videos":[{"mimetype":"video/mp4","url":"https://servers2.adriver.ru/mf/0007914/0007914242/0/video1.mp4"}], "jstracker":[]} ]]>
+</AdParameters>
+<VideoClicks> </VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://files.adriver.ru/l.zakharova/vpaid-legacy.js ]]>
+</MediaFile>
+<MediaFile delivery="progressive" bitrate="256" width="0" height="0" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://files.adriver.ru/l.zakharova/vpaid-legacy.js ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
